@@ -1,4 +1,5 @@
-### Hi there 👋
+### Woo
+I am an engineer with a passion for embedded systems, cyber-physical devices, and software development. I am always eager to learn new things and solve problems.
 
 <!--
 **scrizz/scrizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
